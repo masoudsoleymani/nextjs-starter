@@ -2,6 +2,8 @@
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Next.js](https://nextjs.org/) static apps.
 
+Published at: https://nice-hill-0f80b2703.azurestaticapps.net
+
 ## Running locally
 
 To run locally, open the development server with the following command:
